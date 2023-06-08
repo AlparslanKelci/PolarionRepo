@@ -1,1 +1,2 @@
 Polarion git test file
+edited, changed
