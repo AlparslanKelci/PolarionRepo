@@ -18,4 +18,5 @@ public class Example {
         }
     }
     /*@wi.relates_to FekaTraining FUN-247 "Hello!"*/
+    // @wi.relates_to FekaTraining FUN-247 "Hello!"
 }
