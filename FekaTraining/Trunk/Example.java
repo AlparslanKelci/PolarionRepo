@@ -1,4 +1,4 @@
-/* Small Example class */
+/* @wi.relates_to FekaTraining FUN-247 "Hello!" */
 
 package com.polarion.demo;
 
