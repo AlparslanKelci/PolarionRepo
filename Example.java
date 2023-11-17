@@ -1,7 +1,7 @@
 /* @wi.relates_to FekaTraining FUN-247 "Hello!" */
 
 package com.polarion.demo;
-
+//@wi EDEM-132
 public class Example {
     
     public static void main(String[] args) {
